@@ -34,7 +34,7 @@ class fish:
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
 sender_email = "druncha.fum@gmail.com"
-password = 'WBH<<19@CC'
+password = ''
 
 
 mail = input('Tupe your E-mail: ')
