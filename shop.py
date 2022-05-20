@@ -41,7 +41,7 @@ password = str(os.environ.get('DRUNCHA'))
 
 
 mail = input('Tupe your E-mail: ')
-animal = input('Choose your animal: ')
+animal = input('Choose your animal: we only have(cat,dog,fish): ')
 
 
 while True:
