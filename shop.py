@@ -35,7 +35,11 @@ class fish:
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
 sender_email = "druncha.fum@gmail.com"
+<<<<<<< HEAD
 password = str(os.environ.get('DRUNCHA'))
+=======
+password = ''
+>>>>>>> refs/remotes/origin/master
 
 
 mail = input('Tupe your E-mail: ')
